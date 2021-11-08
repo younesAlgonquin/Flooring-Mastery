@@ -1,0 +1,5 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total::OrderDate
+2::Doctor Who::WA::9.25::Wood::243.00::5.15::4.75::1251.45::1154.25::222.53::2628.23::01-01-2022
+3::Albert Einstein::KY::6.00::Carpet::217.00::2.25::2.10::488.25::455.70::56.64::1000.59::01-01-2022
+25::yasso::WA::9.25::Laminate::87756::1.75::2.10::153573.00::184287.60::31252.11::369112.71::01-01-2022
+26::rojo::WA::9.25::Carpet::555::2.25::2.10::1248.75::1165.50::223.32::2637.57::01-01-2022
